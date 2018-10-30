@@ -19,11 +19,11 @@ keywords:
 
 ## 코드
 
-![scatter-labview-code](../img/scatter-labview-code.png)
+![scatter-labview-code](../gblog/img/scatter-labview-code.png)
 
 ## 출력물
 
-![scatter-labview](../img/scatter-labview.png)
+![scatter-labview](../gblog/img/scatter-labview.png)
 
 
 
