@@ -19,10 +19,10 @@ keywords:
 
 ## 코드
 
-![scatter-labview-code](https://github.com/five2nine/geomap/blob/master/scatter-labview-code.png?raw=true)
+![scatter-labview-code](../img/scatter-labview-code.png)
 
 ## 출력물
 
-![scatter-labview](https://github.com/five2nine/geomap/blob/master/scatter-labview.png?raw=true)
+![scatter-labview](../img/scatter-labview.png)
 
 
